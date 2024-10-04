@@ -1,6 +1,6 @@
-# M2HGR: Multi-modal Multi-feature Hand Gesture Recognition Based on sEMG and Vision Fusion for Robotic Teleoperation
+# M2HGR: Hand Gesture Recognition for Robotic Teleoperation Using sEMG and Vision Fusion
 
-This is the official implementation of "Multi-modal Multi-feature Hand Gesture Recognition Based on sEMG and Vision Fusion for Robotic Teleoperation" on PyTorch platform.
+This is the official implementation of "Hand Gesture Recognition for Robotic Teleoperation Using sEMG and Vision Fusion" on PyTorch platform.
 
 
 ## The released codes include:
